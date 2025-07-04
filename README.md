@@ -17,8 +17,8 @@ I'm a Data & Operation Analyst who loves turning complex data into actionable in
 `SQL` `Python` `Power BI` `Google Analytics` `Firebase` `React`
 
 ## 📫 Reach Me
-- [LinkedIn](https://linkedin.com/in/dbsgame)
-- [Email](mailto:dbsgame@example.com)
+- [LinkedIn](https://linkedin.com/in/gufranefendi)
+- [Email](mailto:efendigufran@gmail.com)
 
 
 <!--
