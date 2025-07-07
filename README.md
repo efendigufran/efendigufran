@@ -6,13 +6,13 @@ I'm a Data & Operation Analyst who loves turning complex data into actionable in
 
 - 📊 [Weather Monitoring Dashboard (Power BI)](https://github.com/efendigufran/pbi-weather-station)  
   pusat pemantauan kondisi atmosfer, untuk memahami perubahan cuaca dan potensi dampaknya terhadap lingkungan maupun kegiatan operasional
-
+<!--
 - 📈 [Radiation Data Normalization](https://github.com/dbsgame/radiation-normalization)  
   Normalisasi data radiasi matahari per 10 menit untuk mendeteksi cuaca cerah/mendung.
 
 - 📉 [Marketing Funnel Analysis (GA4)](https://github.com/dbsgame/ga4-marketing-funnel)  
   Menyusun funnel dan segmentasi pengunjung berbasis Google Analytics 4.
-
+-->
 ## 🛠 Tech Stack
 `SQL` `Python` `Power BI` `Google Analytics` `Firebase` `React`
 
