@@ -4,8 +4,8 @@ I'm a Data & Operation Analyst who loves turning complex data into actionable in
 
 ## 🔍 Featured Projects
 
-- 📊 [Harvest Performance Dashboard (Power BI)](https://github.com/dbsgame/harvest-performance-pbi)  
-  Analisis produktivitas panen berdasarkan rotasi & hari kerja.
+- 📊 [Weather Monitoring Dashboard (Power BI)](https://github.com/efendigufran/pbi-weather-station)  
+  pusat pemantauan kondisi atmosfer, untuk memahami perubahan cuaca dan potensi dampaknya terhadap lingkungan maupun kegiatan operasional
 
 - 📈 [Radiation Data Normalization](https://github.com/dbsgame/radiation-normalization)  
   Normalisasi data radiasi matahari per 10 menit untuk mendeteksi cuaca cerah/mendung.
