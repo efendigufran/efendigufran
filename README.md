@@ -14,7 +14,7 @@ I'm a Data & Operation Analyst who loves turning complex data into actionable in
   Menyusun funnel dan segmentasi pengunjung berbasis Google Analytics 4.
 -->
 ## 🛠 Tech Stack
-`SQL` `Python` `Power BI` `Google Analytics` `Firebase` `React`
+`SQL` `Python` `Power BI` `Looker Studio` `Tableau` `Firebase` `React`
 
 ## 📫 Reach Me
 - [LinkedIn](https://linkedin.com/in/gufranefendi)
